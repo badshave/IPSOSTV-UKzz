@@ -1,0 +1,858 @@
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | ANIMAL PLANET SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg" group-title="EU | SKY UK DOC",| UK | ANIMAL PLANET SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275712
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | ANIMAL PLANET +1 " tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-uk-plus1-us-uk.svg" group-title="EU | SKY UK DOC",| UK | ANIMAL PLANET +1 
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275711
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | NAT GEO WILD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" group-title="EU | SKY UK DOC",| UK | NAT GEO WILD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275710
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | NAT GEO SD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="EU | SKY UK DOC",| UK | NAT GEO SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275709
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | RT DOCUMENTARY " tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt_doc_ru.png" group-title="EU | SKY UK DOC",| UK | RT DOCUMENTARY 
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275708
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | DISCOVERY HISTORY +1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-history-plus1-us.svg" group-title="EU | SKY UK DOC",| UK | DISCOVERY HISTORY +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275707
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | DISCOVERY SCIENCE +1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-plus1-us.svg" group-title="EU | SKY UK DOC",| UK | DISCOVERY SCIENCE +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275706
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | DISCOVERY TURBO +1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-turbo-plus1-us.svg" group-title="EU | SKY UK DOC",| UK | DISCOVERY TURBO +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275705
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | DISCOVERY +1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-plus1-us.svg" group-title="EU | SKY UK DOC",| UK | DISCOVERY +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275704
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | HGTV +1" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv-plus1-us.svg" group-title="EU | SKY UK DOC",| UK | HGTV +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275703
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | DISCOVERY HOME & HEALTH +1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-home-and-health-us.png" group-title="EU | SKY UK DOC",| UK | DISCOVERY HOME & HEALTH +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275702
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | INVESTIGATION DISCOVERY +1" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.svg" group-title="EU | SKY UK DOC",| UK | INVESTIGATION DISCOVERY +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275701
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | CBS REALITY +1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-reality-uk.svg" group-title="EU | SKY UK DOC",| UK | CBS REALITY +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275700
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | CBS JUSTICE IRELAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CBS_Justice_2018.svg/200px-CBS_Justice_2018.svg.png" group-title="EU | SKY UK DOC",| UK | CBS JUSTICE IRELAND
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275699
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | FOOD NETWORK +1" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food-network-plus1-us.svg" group-title="EU | SKY UK DOC",| UK | FOOD NETWORK +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275698
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | QUEST" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quest-us.svg" group-title="EU | SKY UK DOC",| UK | QUEST
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275697
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | QUEST +1" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quest-us.svg" group-title="EU | SKY UK DOC",| UK | QUEST +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275696
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | QUEST RED +1" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quest-red-uk.svg" group-title="EU | SKY UK DOC",| UK | QUEST RED +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275695
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY H2 HISTORY" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-history-2-us-uk.svg" group-title="EU | SKY UK DOC",| UK | SKY H2 HISTORY
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275694
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY HISTORY" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-history-us-uk.svg" group-title="EU | SKY UK DOC",| UK | SKY HISTORY
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275693
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY DOCUMENTARIES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-documentaries-de.png" group-title="EU | SKY UK DOC",| UK | SKY DOCUMENTARIES
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275692
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | DISCOVERY SHED" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" group-title="EU | SKY UK DOC",| UK | DISCOVERY SHED
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275691
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | DISCOVERY" tvg-logo="https://www.lyngsat.com/logo/corp/dd/discovery_networks.png" group-title="EU | SKY UK DOC",| UK | DISCOVERY
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275690
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | DAVE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dave-uk.svg" group-title="EU | SKY UK DOC",| UK | DAVE
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275689
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | CRIME & INVESTIGATION" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime-plus-investigation-us.svg" group-title="EU | SKY UK DOC",| UK | CRIME & INVESTIGATION
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275688
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE ONE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-one-ie.svg" group-title="EU | IRELAND",| IR | RTE ONE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275374
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE ONE" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-one-ie.svg" group-title="EU | IRELAND",| IR | RTE ONE
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275406
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE ONE" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-one-ie.svg" group-title="EU | IRELAND",| IR | RTE ONE
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275373
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE ONE +1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-one-ie.svg" group-title="EU | IRELAND",| IR | RTE ONE +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275405
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE ONE +1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-one-ie.svg" group-title="EU | IRELAND",| IR | RTE ONE +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275372
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE TWO HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-2-ie.svg" group-title="EU | IRELAND",| IR | RTE TWO HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275371
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE TWO HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-2-ie.svg" group-title="EU | IRELAND",| IR | RTE TWO HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275404
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE TWO" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-2-ie.svg" group-title="EU | IRELAND",| IR | RTE TWO
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275403
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE TWO" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-2-ie.svg" group-title="EU | IRELAND",| IR | RTE TWO
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275370
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE TWO +1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-2-ie.svg" group-title="EU | IRELAND",| IR | RTE TWO +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275369
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE TWO +1" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-2-ie.svg" group-title="EU | IRELAND",| IR | RTE TWO +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275402
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | TG4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tg-4-ie.svg" group-title="EU | IRELAND",| IR | TG4 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275368
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | TG4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tg-4-ie.svg" group-title="EU | IRELAND",| IR | TG4 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275401
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | TG4  HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tg-4-ie.svg" group-title="EU | IRELAND",| IR | TG4  HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275400
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | TG4  HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tg-4-ie.svg" group-title="EU | IRELAND",| IR | TG4  HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275367
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | TG4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tg-4-ie.svg" group-title="EU | IRELAND",| IR | TG4
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275399
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | TG4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tg-4-ie.svg" group-title="EU | IRELAND",| IR | TG4
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275366
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE NEWS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-news-ie.svg" group-title="EU | IRELAND",| IR | RTE NEWS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275365
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE NEWS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-news-ie.svg" group-title="EU | IRELAND",| IR | RTE NEWS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275398
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA ONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-one-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA ONE HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275396
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA ONE" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-one-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA ONE
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275395
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA ONE +1" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-one-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA ONE +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275394
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA TWO HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-two-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA TWO HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275393
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA TWO" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-two-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA TWO
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275392
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA THREE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-three-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA THREE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275391
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA THREE HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-three-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA THREE HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275390
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA THREE" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-three-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA THREE
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275389
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | PREMIER SPORTS 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/premier-sports-1-ie.png" group-title="EU | IRELAND",| IR | PREMIER SPORTS 1 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275386
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE JUNIOR FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-jr-ie.svg" group-title="EU | IRELAND",| IR | RTE JUNIOR FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275376
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE JUNIOR" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-jr-ie.svg" group-title="EU | IRELAND",| IR | RTE JUNIOR
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275375
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA ONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-one-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA ONE HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275363
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA ONE" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-one-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA ONE
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275362
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA ONE +1" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-one-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA ONE +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275361
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA TWO HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-two-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA TWO HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275360
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA TWO" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-two-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA TWO
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275359
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA THREE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-three-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA THREE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275358
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA THREE HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-three-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA THREE HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275357
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | VIRGIN MEDIA THREE" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-three-ie.svg" group-title="EU | IRELAND",| IR | VIRGIN MEDIA THREE
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275356
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | PREMIER SPORTS 1 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/premier-sports-1-ie.png" group-title="EU | IRELAND",| IR | PREMIER SPORTS 1 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275353
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | PREMIER SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzdZkhp09wcIItjnl8u9pDkR19EcVArNUQg&usqp=CAU" group-title="EU | IRELAND",| IR | PREMIER SPORTS 2 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275352
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE JUNIOR FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-jr-ie.svg" group-title="EU | IRELAND",| IR | RTE JUNIOR FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275343
+#EXTINF:-1 tvg-ID="" tvg-name="| IR | RTE JUNIOR" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-jr-ie.svg" group-title="EU | IRELAND",| IR | RTE JUNIOR
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275342
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275323
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE LONDON" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE LONDON
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275322
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE NORTHERN IRELAND HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE NORTHERN IRELAND HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275321
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE SCOTLAND HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-scotland-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE SCOTLAND HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275320
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC TWO HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC TWO HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275319
+#EXTINF:-1 tvg-ID="" tvg-name="UK FHD : BBC TWO WALES HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.svg" group-title="EU | BBC iPlayer UK",UK FHD : BBC TWO WALES HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275318
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC TWO NORTHEN IRELAND" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC TWO NORTHEN IRELAND
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275317
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC TWO SCOTLAND" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC TWO SCOTLAND
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275316
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC FOUR HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-four-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC FOUR HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275315
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : CBBC HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbbc-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : CBBC HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275314
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : CBEEBIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbeebies-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : CBEEBIES HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275313
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC NEWS HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275312
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC PARLIAMENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-parliament-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC PARLIAMENT HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275311
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ALBA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-alba-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ALBA
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275310
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : S4C" tvg-logo="https://www.lyngsat.com/logo/tv/ss/s4c-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : S4C
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275309
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE CAMBRIDGE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE CAMBRIDGE
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275308
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE NORTH WEST" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE NORTH WEST
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275307
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE NORTH EAST" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE NORTH EAST
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275306
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE SOUTH WEST" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE SOUTH WEST
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275305
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE SOUTH EAST" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE SOUTH EAST
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275304
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE SOUTH" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE SOUTH
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275303
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE EAST YORKSHIRE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE EAST YORKSHIRE
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275302
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE YORKS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE YORKS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275301
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE WEST" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE WEST
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275300
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE OXFORD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE OXFORD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275299
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE EAST MIDLANDS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE EAST MIDLANDS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275298
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE EAST" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE EAST
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275297
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC ONE CHANNEL ISLANDS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC ONE CHANNEL ISLANDS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275296
+#EXTINF:-1 tvg-ID="" tvg-name="IPLAYER : BBC TWO NORTHEN IRELAND" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.svg" group-title="EU | BBC iPlayer UK",IPLAYER : BBC TWO NORTHEN IRELAND
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275295
+#EXTINF:-1 tvg-ID="bbconelondon.uk" tvg-name="|UK| BBC 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png" group-title="EU | SKY UK",|UK| BBC 1 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117314
+#EXTINF:-1 tvg-ID="bbconelondon.uk" tvg-name="|UK| BBC 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png" group-title="EU | SKY UK",|UK| BBC 1 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117297
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="|UK| BBC 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.png" group-title="EU | SKY UK",|UK| BBC 2 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117298
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="|UK| BBC 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.png" group-title="EU | SKY UK",|UK| BBC 2 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117315
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="|UK| BBC 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_four_uk.png" group-title="EU | SKY UK",|UK| BBC 4 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117300
+#EXTINF:-1 tvg-ID="bbconelondon.uk" tvg-name="|UK| BBC FHD 3/CBBC" tvg-logo="http://89.163.144.176:5566/logo.chaines.mjid/UK/BBC3.uk.png" group-title="EU | SKY UK",|UK| BBC FHD 3/CBBC
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117316
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="|UK| BBC FHD 4/CBEEBIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_four_uk.png" group-title="EU | SKY UK",|UK| BBC FHD 4/CBEEBIES
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117317
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="|UK| BBC SCOTLAND FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-scotland-uk.png" group-title="EU | SKY UK",|UK| BBC SCOTLAND FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117319
+#EXTINF:-1 tvg-ID="bbconelondon.uk" tvg-name="|UK| BBC ONE LONDON SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png" group-title="EU | SKY UK",|UK| BBC ONE LONDON SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117557
+#EXTINF:-1 tvg-ID="bbc1northernireland.uk" tvg-name="|IR| BBC ONE NORTHERN IRELAND HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png" group-title="EU | IRELAND",|IR| BBC ONE NORTHERN IRELAND HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117498
+#EXTINF:-1 tvg-ID="bbcalba.uk" tvg-name="|UK| BBC ALBA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-alba-uk.png" group-title="EU | SKY UK",|UK| BBC ALBA
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117544
+#EXTINF:-1 tvg-ID="bbcnews.uk" tvg-name="|UK| BBC NEWS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="EU | SKY UK NEWS",|UK| BBC NEWS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117318
+#EXTINF:-1 tvg-ID="bbcnews.uk" tvg-name="|UK| BBC NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="EU | SKY UK NEWS",|UK| BBC NEWS HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117257
+#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="|UK| BBC WORLD NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_world_news_uk.png" group-title="EU | SKY UK NEWS",|UK| BBC WORLD NEWS HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117312
+#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="|UK| BBC WORLD NEWS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_world_news_uk.png" group-title="EU | SKY UK",|UK| BBC WORLD NEWS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117548
+#EXTINF:-1 tvg-ID="bbcparliament.uk" tvg-name="|UK| BBC PARLIAMENT SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-parliament-uk.png" group-title="EU | SKY UK",|UK| BBC PARLIAMENT SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117571
+#EXTINF:-1 tvg-ID="cbeebies.uk" tvg-name="|UK| BBC CBEEBIES FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title="EU | SKY UK KIDS",|UK| BBC CBEEBIES FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117461
+#EXTINF:-1 tvg-ID="cbeebies.uk" tvg-name="|UK| POP +1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title="EU | SKY UK KIDS",|UK| POP +1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117837
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="|UK| ITV 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-uk.png" group-title="EU | SKY UK",|UK| ITV 1 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117353
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="|UK| ITV 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-uk.png" group-title="EU | SKY UK",|UK| ITV 1 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117243
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="|UK| ITV 2 FHD" tvg-logo="https://w7.pngwing.com/pngs/753/98/png-transparent-itv2-itv4-itv-hub-itv-hd-itv2hd-television-blue-text-thumbnail.png" group-title="EU | SKY UK",|UK| ITV 2 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117354
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="|UK| ITV 2 HD" tvg-logo="https://w7.pngwing.com/pngs/753/98/png-transparent-itv2-itv4-itv-hub-itv-hd-itv2hd-television-blue-text-thumbnail.png" group-title="EU | SKY UK",|UK| ITV 2 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117239
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="|UK| ITV 3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/ITV3_logo_2013.svg/revision/latest/scale-to-width-down/300?cb=20210807190328" group-title="EU | SKY UK",|UK| ITV 3 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117355
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="|UK| ITV 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/ITV3_logo_2013.svg/revision/latest/scale-to-width-down/300?cb=20210807190328" group-title="EU | SKY UK",|UK| ITV 3 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117238
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="|UK| ITV 4 FHD" tvg-logo="https://archive.org/download/Itv4Hd//itv%204%20hd_thumb.jpg" group-title="EU | SKY UK",|UK| ITV 4 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117356
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="|UK| ITV 4 HD" tvg-logo="https://archive.org/download/Itv4Hd//itv%204%20hd_thumb.jpg" group-title="EU | SKY UK",|UK| ITV 4 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117244
+#EXTINF:-1 tvg-ID="itvbe.uk" tvg-name="|UK| ITV BE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_be.png" group-title="EU | SKY UK",|UK| ITV BE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117281
+#EXTINF:-1 tvg-ID="itvbe.uk" tvg-name="|UK| ITV BE HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_be.png" group-title="EU | SKY UK",|UK| ITV BE HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117357
+#EXTINF:-1 tvg-ID="rt.uk" tvg-name="|IR| RTE ONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte_one.png" group-title="EU | IRELAND",|IR| RTE ONE HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117508
+#EXTINF:-1 tvg-ID="rt.uk" tvg-name="|IR| RTE TWO FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte_2_ie.png" group-title="EU | IRELAND",|IR| RTE TWO FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117491
+#EXTINF:-1 tvg-ID="" tvg-name="|IR| RTE NEWS SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rte-news-ie.png" group-title="EU | IRELAND",|IR| RTE NEWS SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117935
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="|UK| DAVE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dave-uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| DAVE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117335
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="|UK| DAVE JA VU SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dave-uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| DAVE JA VU SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117619
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="|UK| E4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/e4-uk-uk.png" group-title="EU | SKY UK",|UK| E4 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117337
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="|UK| E4  FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/e4-uk-uk.png" group-title="EU | SKY UK",|UK| E4  FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117226
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="|UK| CHANNEL 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_4_uk.png" group-title="EU | SKY UK",|UK| CHANNEL 4 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117241
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="|UK| CHANNEL 5 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-5-uk.png" group-title="EU | SKY UK",|UK| CHANNEL 5 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117326
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="|UK| CHANNEL 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-5-uk.png" group-title="EU | SKY UK",|UK| CHANNEL 5 SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117242
+#EXTINF:-1 tvg-ID="stv.uk" tvg-name="|UK| STV FHD" tvg-logo="http://tvprestige.eu/uploadlogo/iptvforall/United-Kingdom/stv_uk.png" group-title="EU | SKY UK",|UK| STV FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117409
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="|UK| 4 SEVEN SD" tvg-logo="https://www.lyngsat.com/logo/tv/num/4seven-uk.png" group-title="EU | SKY UK",|UK| 4 SEVEN SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117308
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="|UK| 4 SEVEN FHD" tvg-logo="https://www.lyngsat.com/logo/tv/num/4seven-uk.png" group-title="EU | SKY UK",|UK| 4 SEVEN FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117520
+#EXTINF:-1 tvg-ID="fiveusa.uk" tvg-name="|UK| 5 USA SD" tvg-logo="https://www.lyngsat.com/logo/tv/num/5-usa-uk.png" group-title="EU | SKY UK",|UK| 5 USA SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117526
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="|UK| 5 STAR SD" tvg-logo="https://www.lyngsat.com/logo/tv/num/5-stars-il.png" group-title="EU | SKY UK",|UK| 5 STAR SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117525
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="|UK| MORE 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/more-4-uk-uk.png" group-title="EU | SKY UK",|UK| MORE 4 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117363
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="|IR| VIRGIN MEDIA ONE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-one-ie.png" group-title="EU | IRELAND",|IR| VIRGIN MEDIA ONE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117492
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="|IR| VIRGIN MEDIA TWO FHD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/virgin-media-two-ie.png" group-title="EU | IRELAND",|IR| VIRGIN MEDIA TWO FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117494
+#EXTINF:-1 tvg-ID="Sky.Sports.News.nl" tvg-name="|UK| SKY SPORTS NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS NEWS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117273
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="|UK| SKY SPORTS NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS NEWS HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117942
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORTS NEWS" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_news.png" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS NEWS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275507
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS PREMIER LEAGUE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117943
+#EXTINF:-1 tvg-ID="" tvg-name="|UK | SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_premier_league.png" group-title="EU | SKY UK SPORTS",|UK | SKY SPORTS PREMIER LEAGUE HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275505
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_premier_league.png" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS PREMIER LEAGUE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275504
+#EXTINF:-1 tvg-ID="laligatv.uk" tvg-name="|UK| LALIGA TV FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="EU | SKY UK SPORTS",|UK| LALIGA TV FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117352
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS FOOTBALL FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117403
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="|UK | SKY SPORTS FOOTBALL HD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_football.png" group-title="EU | SKY UK SPORTS",|UK | SKY SPORTS FOOTBALL HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275502
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="| UK | SKY SPORTS FOOTBALL" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_football.png" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS FOOTBALL
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275501
+#EXTINF:-1 tvg-ID="" tvg-name="|UK | SKY SPORTS ARENA (DARTS) HD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_arena.png" group-title="EU | SKY UK SPORTS",|UK | SKY SPORTS ARENA (DARTS) HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275500
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORTS ARENA (DARTS)" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_arena.png" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS ARENA (DARTS)
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275499
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="|UK| SKY SPORTS ARENA FHD  (BACKUP)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-arena-uk.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS ARENA FHD  (BACKUP)
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117434
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS MAIN EVENT FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117405
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORTS MAIN EVENT" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_main_event.png" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS MAIN EVENT
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275497
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="|UK| SKY SPORTS MIX FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS MIX FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117397
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="|UK| SKY SPORTS MIX HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS MIX HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117274
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="| UK | SKY SPORTS MIX" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_mix.png" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS MIX
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275495
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="|UK| SKY SPORTS F1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS F1 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117193
+#EXTINF:-1 tvg-ID="" tvg-name="|UK | SKY SPORTS F1 HD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_f1.png" group-title="EU | SKY UK SPORTS",|UK | SKY SPORTS F1 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275493
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORTS F1" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_f1.png" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS F1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275492
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="|UK| SKY SPORTS CRICKET FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS CRICKET FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117401
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="|UK| SKY SPORTS CRICKET HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS CRICKET HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117192
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORTS CRICKET" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_cricket.png" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS CRICKET
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275490
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORTS NFL FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_nfl.png" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS NFL FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275488
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORTS NFL" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_nfl.png" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS NFL
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275487
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="|UK| EUROSPORTS 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/british_eurosport_1.png" group-title="EU | SKY UK SPORTS",|UK| EUROSPORTS 1 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117339
+#EXTINF:-1 tvg-ID="" tvg-name="|UK | EUROSPORTS 1 HD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/eurosport_1.png" group-title="EU | SKY UK SPORTS",|UK | EUROSPORTS 1 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275486
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | EUROSPORT 1 FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/eurosport_1.png" group-title="EU | SKY UK SPORTS",| UK | EUROSPORT 1 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275485
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="|UK| EUROSPORTS 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/british_eurosport_2.png" group-title="EU | SKY UK SPORTS",|UK| EUROSPORTS 2 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117340
+#EXTINF:-1 tvg-ID="" tvg-name="|UK | EUROSPORTS 2 FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/eurosport_2.png" group-title="EU | SKY UK SPORTS",|UK | EUROSPORTS 2 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275484
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | EUROSPORT 2 HD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/eurosport_2.png" group-title="EU | SKY UK SPORTS",| UK | EUROSPORT 2 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275483
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BOX NATION FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/boxnation.png" group-title="EU | SKY UK SPORTS",| UK | BOX NATION FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275480
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | ELEVEN SPORTS 1" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="EU | SKY UK SPORTS",| UK | ELEVEN SPORTS 1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275479
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | ELEVEN SPORTS 2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="EU | SKY UK SPORTS",| UK | ELEVEN SPORTS 2
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275478
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="|UK| SKY SPORTS GOLF FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS GOLF FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117404
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="|UK| SKY SPORTS GOLF HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS GOLF HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117195
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORTS GOLF (THE OPEN)" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_sports_golf.png" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS GOLF (THE OPEN)
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275476
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORTS RACING FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.svg" group-title="EU | SKY UK SPORTS",| UK | SKY SPORTS RACING FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275435
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="|UK| SKY SPORTS RACING HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png" group-title="EU | SKY UK SPORTS",|UK| SKY SPORTS RACING HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117272
+#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="|UK| RACING UK FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/racing-tv-uk.png" group-title="EU | SKY UK SPORTS",|UK| RACING UK FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117373
+#EXTINF:-1 tvg-ID="" tvg-name="|UK | RACING UK HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/racing-tv-uk.svg" group-title="EU | SKY UK SPORTS",|UK | RACING UK HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275436
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SPORTY STUFF FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sporty_stuff_tv.png" group-title="EU | SKY UK SPORTS",| UK | SPORTY STUFF FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275474
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SPORTY STUFF HD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sporty_stuff_tv.png" group-title="EU | SKY UK SPORTS",| UK | SPORTY STUFF HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275473
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SPORTY STUFF" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sporty_stuff_tv.png" group-title="EU | SKY UK SPORTS",| UK | SPORTY STUFF
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275472
+#EXTINF:-1 tvg-ID="freesports.uk" tvg-name="|UK| FREE SPORTS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/freesports-uk.png" group-title="EU | SKY UK SPORTS",|UK| FREE SPORTS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117345
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | FREE SPORTS FHD" tvg-logo="https://livesport.center/wp-content/uploads/freesportssquare.png?ezimgfmt=rs:198x198/rscb4/ng:webp/ngcb4" group-title="EU | SKY UK SPORTS",| UK | FREE SPORTS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275471
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | FREE SPORTS" tvg-logo="https://livesport.center/wp-content/uploads/freesportssquare.png?ezimgfmt=rs:198x198/rscb4/ng:webp/ngcb4" group-title="EU | SKY UK SPORTS",| UK | FREE SPORTS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275470
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORT BOX OFFICE FHD" tvg-logo="https://img.favpng.com/4/7/3/sky-movies-box-office-sky-sports-streaming-media-sky-uk-boxing-png-favpng-PSCQiVPGzksGnMwka1nkAgd3Y_t.jpg" group-title="EU | SKY UK SPORTS",| UK | SKY SPORT BOX OFFICE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275467
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY SPORT BOX OFFICE HD" tvg-logo="https://img.favpng.com/4/7/3/sky-movies-box-office-sky-sports-streaming-media-sky-uk-boxing-png-favpng-PSCQiVPGzksGnMwka1nkAgd3Y_t.jpg" group-title="EU | SKY UK SPORTS",| UK | SKY SPORT BOX OFFICE HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275469
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT BOX OFFICE FHD" tvg-logo="https://img.favpng.com/4/7/3/sky-movies-box-office-sky-sports-streaming-media-sky-uk-boxing-png-favpng-PSCQiVPGzksGnMwka1nkAgd3Y_t.jpg" group-title="EU | SKY UK SPORTS",| UK | BT BOX OFFICE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275468
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="|UK| BT 1 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="EU | SKY UK SPORTS",|UK| BT 1 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117321
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORTS 1 FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/bt_sport_1.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORTS 1 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275462
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="|UK| BT SPORTS 1 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="EU | SKY UK SPORTS",|UK| BT SPORTS 1 SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117584
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="|UK| BT 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="EU | SKY UK SPORTS",|UK| BT 2 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117322
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORTS 2 FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/bt_sport_2.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORTS 2 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275460
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="|UK| BT SPORTS 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="EU | SKY UK SPORTS",|UK| BT SPORTS 2 SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117585
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="|UK| BT 3 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="EU | SKY UK SPORTS",|UK| BT 3 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117323
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORTS 3 FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/bt_sport_3.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORTS 3 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275458
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="|UK| BT SPORTS 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="EU | SKY UK SPORTS",|UK| BT SPORTS 3 SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117586
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORTS 4 FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/bt_sport_4.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORTS 4 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275457
+#EXTINF:-1 tvg-ID="btsportx4.uk" tvg-name="|UK| BT SPORTS 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-extra-4-uk.png" group-title="EU | SKY UK SPORTS",|UK| BT SPORTS 4 SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117460
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORTS 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-5-uk.svg" group-title="EU | SKY UK SPORTS",| UK | BT SPORTS 5 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275456
+#EXTINF:-1 tvg-ID="btsportx6.uk" tvg-name="|UK| BT SPORTS 6 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-extra-6-uk.png" group-title="EU | SKY UK SPORTS",|UK| BT SPORTS 6 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117834
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT FHD ESPN (BACKUP )" tvg-logo="https://archive.org/download/BtSportEspnHd/bt%20sport%20espn%20hd.png" group-title="EU | SKY UK SPORTS",| UK | BT FHD ESPN (BACKUP )
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275455
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORTS EXTRA 1 - BT SPORTS 5" tvg-logo="https://archive.org/download/BtSportExtra1/bt%20sport%20extra%201.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORTS EXTRA 1 - BT SPORTS 5
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275452
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORTS 6" tvg-logo="https://archive.org/download/BtSportExtra2/bt%20sport%20extra%202%20.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORTS 6
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275449
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORTS 7" tvg-logo="https://archive.org/download/BtSportExtra3/bt%20sport%20extra%203%20.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORTS 7
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275446
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORTS 8" tvg-logo="https://archive.org/download/BtSportExtra4/bt%20sport%20extra%204.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORTS 8
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275443
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORT EXTRA 5 SD" tvg-logo="https://archive.org/download/BtSportExtra5/bt%20sport%20extra%205.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORT EXTRA 5 SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275442
+#EXTINF:-1 tvg-ID="" tvg-name="|UK | BT SPORT EXTRA 5 HD" tvg-logo="https://archive.org/download/BtSportExtra5/bt%20sport%20extra%205.png" group-title="EU | SKY UK SPORTS",|UK | BT SPORT EXTRA 5 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275441
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORTS 10" tvg-logo="https://archive.org/download/BtSportExtra5/bt%20sport%20extra%205.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORTS 10
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275440
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORT EXTRA 6 SD" tvg-logo="https://archive.org/download/BtSportExtra6/bt%20sport%20extra%206.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORT EXTRA 6 SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275439
+#EXTINF:-1 tvg-ID="" tvg-name="|UK | BT SPORT EXTRA 6 HD" tvg-logo="https://archive.org/download/BtSportExtra6/bt%20sport%20extra%206.png" group-title="EU | SKY UK SPORTS",|UK | BT SPORT EXTRA 6 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275438
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | BT SPORTS EXTRA 6" tvg-logo="https://archive.org/download/BtSportExtra6/bt%20sport%20extra%206.png" group-title="EU | SKY UK SPORTS",| UK | BT SPORTS EXTRA 6
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275437
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| VIAPLAY SPORTS 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="EU | SKY UK SPORTS",|UK| VIAPLAY SPORTS 1 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435536
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| VIAPLAY SPORTS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="EU | SKY UK SPORTS",|UK| VIAPLAY SPORTS 2 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435537
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| VIAPLAY SPORTS EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="EU | SKY UK SPORTS",|UK| VIAPLAY SPORTS EXTRA
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435535
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| TENNIS CHANNEL " tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| TENNIS CHANNEL 
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435534
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| DAZN 1 UK FHD" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| DAZN 1 UK FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435532
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NBA US" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| NBA US
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435533
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | MUTV FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/mutv.png" group-title="EU | SKY UK SPORTS",| UK | MUTV FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275434
+#EXTINF:-1 tvg-ID="" tvg-name="|UK | MUTV FHD" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/mutv.png" group-title="EU | SKY UK SPORTS",|UK | MUTV FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275433
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="|UK| MUTV  HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png" group-title="EU | SKY UK SPORTS",|UK| MUTV  HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117270
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="|UK| CHELSEA TV FHD (Live On Matches)" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chelsea_tv.png" group-title="EU | SKY UK SPORTS",|UK| CHELSEA TV FHD (Live On Matches)
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117327
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="|UK| LFC FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lfc-tv-uk.png" group-title="EU | SKY UK SPORTS",|UK| LFC FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117360
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="| IR | EIR SPORTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eir_sport_ie_1.png" group-title="EU | IRELAND",| IR | EIR SPORTS 1 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117504
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="|IR| PREMIER SPORTS 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-2-ie.png" group-title="EU | IRELAND",|IR| PREMIER SPORTS 2 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117511
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="|UK| SKY CINEMA PREMIER FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA PREMIER FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117387
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="|UK| SKY CINEMA PREMIER HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA PREMIER HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117255
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="|UK| SKY CINEMA ACTION FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-de.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA ACTION FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117382
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="|UK| SKY CINEMA ACTION HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-de.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA ACTION HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117245
+#EXTINF:-1 tvg-ID="skythriller.uk" tvg-name="|UK| SKY CINEMA THRILLER FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-thriller-de.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA THRILLER FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117390
+#EXTINF:-1 tvg-ID="skythriller.uk" tvg-name="|UK| SKY CINEMA THRILLER HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-thriller-de.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA THRILLER HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117254
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="|UK| SKY CINEMA DRAMA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA DRAMA FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117391
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="|UK| SKY CINEMA DRAMA HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA DRAMA HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117251
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="|UK| SKY CINEMA SCI-FI & HORROR FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA SCI-FI & HORROR FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117388
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="|UK| SKY CINEMA SCI-FI & HORROR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA SCI-FI & HORROR HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117249
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="|UK| SKY CINEMA HITS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema_hits.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA HITS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117392
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="|UK| SKY CINEMA HITS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema_hits.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA HITS HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117246
+#EXTINF:-1 tvg-ID="skycomedyhd.uk" tvg-name="|UK| SKY CINEMA COMEDY FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-comedy-it.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA COMEDY FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117383
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="|UK| SKY CINEMA GREATS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-greats-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA GREATS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117386
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="|UK| SKY CINEMA GREATS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-greats-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA GREATS HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117250
+#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="|UK| SKY CINEMA SELECT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-select-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA SELECT FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117389
+#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="|UK| SKY CINEMA SELECT HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-select-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA SELECT HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117247
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="|UK| SKY CINEMA FAMILY FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA FAMILY FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117385
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| SKY CINEMA ANIMATION SD" tvg-logo="" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA ANIMATION SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435563
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| SKY CINEMA ANIMATION FHD" tvg-logo="" group-title="EU | SKY UK CINEMA",|UK| SKY CINEMA ANIMATION FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435562
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| PARAMOUNT NETWORK FHD" tvg-logo="" group-title="EU | SKY UK CINEMA",|UK| PARAMOUNT NETWORK FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435564
+#EXTINF:-1 tvg-ID="" tvg-name="UK | NETFLIX SCI-FI EN" tvg-logo="https://i.ibb.co/0r2Y6C4/Sci-fi.png" group-title="EU | SKY UK CINEMA",UK | NETFLIX SCI-FI EN
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/63463
+#EXTINF:-1 tvg-ID="amc.uk" tvg-name="|UK| AMC FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="EU | SKY UK CINEMA",|UK| AMC FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117310
+#EXTINF:-1 tvg-ID="greataction.uk" tvg-name="|UK| GREAT! ACTION" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-movies-action-uk.png" group-title="EU | SKY UK CINEMA",|UK| GREAT! ACTION
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117918
+#EXTINF:-1 tvg-ID="greatmovies.uk" tvg-name="|UK| GREAT! MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-movies-uk.png" group-title="EU | SKY UK CINEMA",|UK| GREAT! MOVIES HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117916
+#EXTINF:-1 tvg-ID="paramount.uk" tvg-name="|UK| 5 ACTION" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAABjCAMAAABt21ivAAAA9lBMVEX/////OwH6////NwD8PAH+MQD//v/+/vz5PgH6NAD9c0z+OQb8//r3///9NwD8/f/1QAT2NQDyVCvtSRfyTiP0XDHz0MPsaD706eXzPAvsWTXy69zxQhXz49v4//vvvanrY0H028zy4tP38ujqUivpqZT08Ozsk3f0xLPytJvz3dXqa0P1rZ30uKj1iGfuybXwjHD0elvrmX/0RxHrvLPoeVbwup/jjm7sfGXhyr3snIrzpYfs6eTpi3Tz0rz708zufFDjZUPgwa399v/3xMD7/u/1Wj/cak7frJffazTsYy38y7L1jor34+jnq6DirIzbRhDafmBI2lY0AAAJVElEQVRoge1YaXPbOBIFcZBESBCCDkqUJVqHRR20DkvyJce2nBlPMpM9//+f2QdSqeRDapLdymY/LF+VyybYBBp9vO42IRUqVKhQoUKFChUqVKhQoUKFChX+Q7iEesD3iHrEtSCU/mgdNH5c7Wr9HcKUpmkYaujxg0FxN0rDMPy2MWAA1/Os+I9WwnOpSu0J397Zg5BS1PsOff9dJSjJOmdnZ9m3RSnxIHg2Jn+mr6df6eyNxap/fFMipt5nD4a4SrYq1uf2IXQVDderVrPRaDTfnOtQT998ieN4WPy+oW5ISbjetBrNRq9+dePBKl6oH4q3Q5J6ZF782acIslC/CIvVXooSB0q/CCNE9tYU6y9uSBBjNM4TaZiFNO3F2534EmaxFQI73VIdkuduIgvByCT5iLqaZj1hX98SqmlbCCbMCEeEdFhjThTJ2Ur4zAHEloSflYBAnBTrrOVay6l5T9a48e1S5IvHtSneWnAI1ce5SHgkz0mot4nwfd9hEfcdLi4WODgWEPJFNyPuuMl8zlqvcNSrepD2hPoQa19RgpJxVxZHsMZbQhWdmBrnPCpEA/N7dhDRJyUc5sircSOqGdbok/TRsJofiIhHUC9IRI6UfoASzGFmTelTwnxHriioxFMt6UR42AvHfFLiS3ekU2N4cUTShxKzxBjsGRkm8VU7U7mQWClUkFImh2fJgsD8ock8YYmJuJRGssjxgyA5V/RKBr414IaSS8F9ZuY2VOgi4Sbwk/Nbk2B/IJmo1D1FLd6vDQ9qAfTgZh2qrMsi349kfTp/GMiXjkrXl/PlSkIv2ZrPL5fZgzCcy43q95jDA5605/ttE24JmFyprMkCjhgR9bF3K4yQyRBBp+mD5EEQ1d8OPz4/xwU6rlckFNVakfFvpubwxI94IOeETBIn4L5pd5D+2XmfaJdijymUMPJQfJRLzpmcq5VgiLRkm1LlLRrCwF4Db9HsAY1ma7BI/7KZTiaTMb75JR3AS1zcaapO5IPcODGL9hSdiloU9W53sKh8oGFL+tywekdlCA9bQkKahthDmkT+SjxPjZsJTHox1C/Nbredb0OtdUp/vVxezudrNX66j+/v75/iM7Ve7vfnh7GyFh81kyTZ9Zak2NHCDcMyJly46+PO5tem0zNSijskirWheYAFNHGpxheuG2a3m+n0cdOB5ai+f7d/dz/KOvHH9WzWAdGEig4PD5u76002zAt+2e3Mddo18H59bO8d/vV8Fu9n636n0ykW4AoP5FHGBNHve41GrzvSV3l+fLNVnQ9/+zD5+4dOqKCq58FoyP00XsOJ+yzFyvjxmA/yl/HbbqPXS/7xTmlNtbqEN6Rs6DkoApdCUDTXjYAH5k4VJw27rW6r1aoD3ettjLLgUe0WrzzE4aLf6Y8y9bbf7y9GOltaPMaU2sQKaVlG+9ZMstcJ4ZvYMDBQXe0l4yKqj4kt42RpENlJPb2yCervIoTucceNIyfEnpTCn8KqFkUMVNa7HsIS3skdaj14nw9ePpD0vcHFLrIhqNIYMQd5W3ekqlBihgzlbOCR0KMHhCgXqyL/EO4ZvOFqdUTGBOKYtsABbIAn30lgCGaeiutq+rEkP47wBAXJ3iSFgcvy368LnhiZ364auILwO8+4AmL/gaY01MotDYHY5dyAXTT6nCuDDEYaPUpwi6ln8BdVcS3wkbbzPrjZEdOZBOEi0wPQa1HYNA1fBC/hQzIQyZaosvB6dyYIsMSExLU4rz2DUywpdcfKVeObUVkZ01zwyMg9SJmM6xzp04vpXAQ4KZlbgUU3wgNvZkuBr+V51jRWKcNFToqT4MZZWYwsjAGbJzcqVLbmLQ03IAnfsZrAj/LyLGEgFUe057NlnhzL8M3qjEe814cF6bPvG2TwmK6l4TWf9aaz2fbCODXfyCnZwDzcj8nKGGwJjp/SokmkngpXjWaBRmJY4BtxkXmu56p+EydaF0VRaSlzUK3I2gakDS9xsy9MERs/QHXzXl2i5tCby5zSszqoEZ/IxG4KI8vWWLXshvUOOT+VP/MRaV64A21PVqITH3Ij/Mhs0TsReoTekW92QK/GazD5nZqA+nGkw5gD3r/oWyUmNi4Ri6Gn6coENSYfsHoQqBaOLaGomr4QvSfSbyAOzEtIx/WyLO9Gqgg+N0XwlvEF3Mf7pnBEFySklpJHfpQsO8jOzq1giL0j9a4lq2FfXM2AxCa2vFyJwIGr0HPq15aMaiyJ3ZRmbcH8WuAgHBBP8iImqEIGRWiKrHsURWwNQDclH5UEXTTPtJ9vF13DdkNKQfeoM2ZTWNy7sWwjfsvo+NrYuHdsfejddmxIXAiJ7ia27h0lglnGAInRTo5uIrCiUiSbM+KpqWCg2xsakjIMUUppUaVoPx4uhk9ZaJ9ClPvHUZ3Jj4T+mrcH7cH7MgPoU54PBoM7tCKv80HPoBol3U1c3ENf5+12fpuhmaX994PuIH9EmkAjb5k3wCr+rjt9RpVT9IBNXt6PSEg7/2wD+f7UK4dHW2+SR1u04J+ZMZMbY2boI19fX8NX8H6hhEKReE0VNEdOj56Wk/VorEqHFiOIrTfEw4Dxaj87mZe6ncXsPO5ntjWCELFDgofEg752IrLDSLGFbqFdDMTvSlt6Je8M7w1zsUf9gHuU9VJxjoalUA4JchfFwo4/YAVaVt2i6nm2r7YVU+tPDRGC5NQS2Pt6hbQNHDsFlKXSrltp9FXcqUWNRWmZo0nEYS6G0M5WSO90DgFFujA30b/oNEQ0QgmUq9N59mS7HdQ76aNPkX5aL4WK+6epZzPP3ujz/KamxpYTebTNBZ0g+Vk7vhhbIQwsny7l2ZELbsYxOMCzHVcxX5bEeoK1HboBvC2Vs+q4xcxqza6L8VUXk+nnL9ySrNYJgxLM1A/Z7DqpgaRbi62X2vHty/HR9hbuSZ3TylenS/fzckkB5TxcOKU80vtSuPxtp45awRzJOZLTd2qoOmfK++oJ/y14NN4xOzA4Zp8bS5HiCmzyU3VA3qsHw3hR3doMLQBLZvQX/cNn6D+HDtOtnTd8WCKyLe+GgBT0zzWFDZTzCylMss/BpMm0GLV/sg4WNDt0e1CiV78doj/6+QoQ29iADvtrVJEM7PTj/53xfQALYvRBmbB9/Hf9J+rHA3SqLaO5Xgou+l9ZokKFChUqVKhQoUKFChUq/J/gX4z90QpNGaJ0AAAAAElFTkSuQmCC" group-title="EU | SKY UK CINEMA",|UK| 5 ACTION
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117736
+#EXTINF:-1 tvg-ID="tcm.uk" tvg-name="|UK| TCM SD" tvg-logo="http://tvprestige.eu/uploadlogo/iptvforall/United-Kingdom/tcm-movies-us-uk.png" group-title="EU | SKY UK CINEMA",|UK| TCM SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117804
+#EXTINF:-1 tvg-ID="horrorchannel.uk" tvg-name="|UK| HORRORXTRA SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/horror-channel-uk.png" group-title="EU | SKY UK",|UK| HORRORXTRA SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117661
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="|UK| FILM 4 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/film-4-uk-uk.png" group-title="EU | SKY UK CINEMA",|UK| FILM 4 FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117342
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="|UK| FILM 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/film-4-uk-uk.png" group-title="EU | SKY UK CINEMA",|UK| FILM 4 HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117230
+#EXTINF:-1 tvg-ID="skywitness.uk" tvg-name="|UK| SKY WITNESS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-witness-uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| SKY WITNESS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117395
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="|UK| SKY ATLANTIC FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-atlantic-de.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| SKY ATLANTIC FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117380
+#EXTINF:-1 tvg-ID="skycrime.uk" tvg-name="|UK| SKY CRIME FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-crime-uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| SKY CRIME FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117358
+#EXTINF:-1 tvg-ID="skycrime.uk" tvg-name="|UK| SKY MOVIES CRIME HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-crime-uk.png" group-title="EU | SKY UK CINEMA",|UK| SKY MOVIES CRIME HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117256
+#EXTINF:-1 tvg-ID="skyarts.uk" tvg-name="|UK| SKY ARTS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-arts-uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| SKY ARTS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117381
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="|UK| SKY NEWS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png" group-title="EU | SKY UK NEWS",|UK| SKY NEWS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117394
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="|UK| SKY NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png" group-title="EU | SKY UK NEWS",|UK| SKY NEWS HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117216
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="|UK| NAT GEO FHD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="EU | SKY UK DOC",|UK| NAT GEO FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117366
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="|UK| NAT GEO HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="EU | SKY UK DOC",|UK| NAT GEO HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117214
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="|UK| NAT GEO WILD FHD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="EU | SKY UK DOC",|UK| NAT GEO WILD FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117367
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | NAT GEO WILD HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" group-title="EU | SKY UK DOC",| UK | NAT GEO WILD HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275672
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="|UK| ANIMAL PLANET FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="EU | SKY UK DOC",|UK| ANIMAL PLANET FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117304
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | ANIMAL PLANET HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg" group-title="EU | SKY UK DOC",| UK | ANIMAL PLANET HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275673
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY NATURE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-nature-it.png" group-title="EU | SKY UK DOC",| UK | SKY NATURE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275685
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY NATURE HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-nature-it.png" group-title="EU | SKY UK DOC",| UK | SKY NATURE HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275670
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="|UK| DISCOVERY FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="EU | SKY UK DOC",|UK| DISCOVERY FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117223
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | DISCOVERY HD" tvg-logo="https://www.lyngsat.com/logo/corp/dd/discovery_networks.png" group-title="EU | SKY UK DOC",| UK | DISCOVERY HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275667
+#EXTINF:-1 tvg-ID="discoveryturbo.uk" tvg-name="|UK| DISCOVERY TURBO SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="EU | SKY UK DOC",|UK| DISCOVERY TURBO SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117625
+#EXTINF:-1 tvg-ID="discoveryscience.uk" tvg-name="|UK| DISCOVERY SCIENCE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" group-title="EU | SKY UK DOC",|UK| DISCOVERY SCIENCE
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117623
+#EXTINF:-1 tvg-ID="homeandhealth.uk" tvg-name="|UK| DISCOVERY HOME & HEALTH SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-home-and-health-us.png" group-title="EU | SKY UK DOC",|UK| DISCOVERY HOME & HEALTH SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117622
+#EXTINF:-1 tvg-ID="discoveryhistory.uk" tvg-name="|UK| DISCOVERY HISTORY SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_history.png" group-title="EU | SKY UK DOC",|UK| DISCOVERY HISTORY SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117621
+#EXTINF:-1 tvg-ID="investigationdiscovery.uk" tvg-name="|UK| INVESTIGATION DISCOVERY (ID) SD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="EU | SKY UK DOC",|UK| INVESTIGATION DISCOVERY (ID) SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117665
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="|UK| CRIME & INVESTIGATION FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_investigation_us.png" group-title="EU | SKY UK DOC",|UK| CRIME & INVESTIGATION FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117328
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | CRIME & INVESTIGATION HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime-plus-investigation-us.svg" group-title="EU | SKY UK DOC",| UK | CRIME & INVESTIGATION HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275666
+#EXTINF:-1 tvg-ID="discoverydmax.uk" tvg-name="|UK| DMAX SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" group-title="EU | SKY UK DOC",|UK| DMAX SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117629
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY HISTORY FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-history-us-uk.svg" group-title="EU | SKY UK DOC",| UK | SKY HISTORY FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275679
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY HISTORY HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-history-us-uk.svg" group-title="EU | SKY UK DOC",| UK | SKY HISTORY HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275664
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY H2 HISTORY FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-history-2-us-uk.svg" group-title="EU | SKY UK DOC",| UK | SKY H2 HISTORY FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275677
+#EXTINF:-1 tvg-ID="quest.uk" tvg-name="|UK| QUEST FHD" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quest-uk.png" group-title="EU | SKY UK DOC",|UK| QUEST FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117372
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | QUEST HD" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quest-us.svg" group-title="EU | SKY UK DOC",| UK | QUEST HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275662
+#EXTINF:-1 tvg-ID="questred.uk" tvg-name="|UK| QUEST RED SD" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quest-red-uk.png" group-title="EU | SKY UK DOC",|UK| QUEST RED SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117747
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY DOCUMENTARIES FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-documentaries-uk.svg" group-title="EU | SKY UK DOC",| UK | SKY DOCUMENTARIES FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275683
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | SKY DOCUMENTARIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-documentaries-uk.svg" group-title="EU | SKY UK DOC",| UK | SKY DOCUMENTARIES HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275682
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | RT DOCUMENTARY FHD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt_doc_ru.png" group-title="EU | SKY UK DOC",| UK | RT DOCUMENTARY FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275660
+#EXTINF:-1 tvg-ID="skynature.uk" tvg-name="|UK| LOVE WORLD FHD" tvg-logo="http://tvprestige.eu/uploadlogo/iptvforall/United-Kingdom/sky-nature-uk.png" group-title="EU | SKY UK DOC",|UK| LOVE WORLD FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117206
+#EXTINF:-1 tvg-ID="blaze.uk" tvg-name="|UK| BLAZE SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blaze_uk.png" group-title="EU | SKY UK DOC",|UK| BLAZE SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117576
+#EXTINF:-1 tvg-ID="" tvg-name="| UK | EARTHXTV HD" tvg-logo="https://image.roku.com/developer_channels/prod/a44ebb8daed71aba0e16a2361d2236b60dbfbb8f0a4403f07746f89ef5298257.png" group-title="EU | SKY UK DOC",| UK | EARTHXTV HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/275661
+#EXTINF:-1 tvg-ID="rt.uk" tvg-name="|UK| RT DOCUMENTRY HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt_doc_ru.png" group-title="EU | SKY UK DOC",|UK| RT DOCUMENTRY HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117375
+#EXTINF:-1 tvg-ID="travelxp.uk" tvg-name="|UK| TRAVEL CHANNEL SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel-channel-us.png" group-title="EU | SKY UK DOC",|UK| TRAVEL CHANNEL SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117809
+#EXTINF:-1 tvg-ID="travelxp.uk" tvg-name="|UK| TRAVEL XP SD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_in_hd.png" group-title="EU | SKY UK DOC",|UK| TRAVEL XP SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117659
+#EXTINF:-1 tvg-ID="foodnetwork.uk" tvg-name="|UK| FOOD NETWORK SD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food-network-uk.png" group-title="EU | SKY UK DOC",|UK| FOOD NETWORK SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117644
+#EXTINF:-1 tvg-ID="foodxp.uk" tvg-name="|UK| FOOD XP" tvg-logo="https://www.lyngsat.com/logo/tv/ff/foodxp-uk.png" group-title="EU | SKY UK DOC",|UK| FOOD XP
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117651
+#EXTINF:-1 tvg-ID="challenge.uk" tvg-name="|UK| CHALLENGE SD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/challenge_tv_uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| CHALLENGE SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117595
+#EXTINF:-1 tvg-ID="greattv.uk" tvg-name="|UK| GREAT! TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-tv-uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| GREAT! TV HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117919
+#EXTINF:-1 tvg-ID="tlc.uk" tvg-name="|UK| TLC FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| TLC FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117415
+#EXTINF:-1 tvg-ID="tlc.uk" tvg-name="|UK| TLC HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| TLC HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117217
+#EXTINF:-1 tvg-ID="syfy.uk" tvg-name="|UK| SYFY FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| SYFY FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117412
+#EXTINF:-1 tvg-ID="syfy.uk" tvg-name="|UK| SYFY  HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| SYFY  HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117220
+#EXTINF:-1 tvg-ID="eentertainment.uk" tvg-name="|UK| E! ENTERTAINMENT FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/e_global_us.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| E! ENTERTAINMENT FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117361
+#EXTINF:-1 tvg-ID="smithsonian.uk" tvg-name="|UK| SMITHSONIAN CHANNEL FHD" tvg-logo="http://tvprestige.eu/uploadlogo/iptvforall/United-Kingdom/smithsonian-channel-us.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| SMITHSONIAN CHANNEL FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117413
+#EXTINF:-1 tvg-ID="cbsreality.uk" tvg-name="|UK| CBS REALITY" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-reality-uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| CBS REALITY
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117594
+#EXTINF:-1 tvg-ID="cbsjustice.uk" tvg-name="|UK| CBS JUSTICE IRELAND" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-justice-uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| CBS JUSTICE IRELAND
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117592
+#EXTINF:-1 tvg-ID="Lifetime.ng" tvg-name="|UK| LIFETIME FHD" tvg-logo="http://tvprestige.eu/uploadlogo/iptvforall/United-Kingdom/lifetime-us.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| LIFETIME FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117359
+#EXTINF:-1 tvg-ID="hgtv.uk" tvg-name="|UK| HGTV SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="EU | SKY UK DOC",|UK| HGTV SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117660
+#EXTINF:-1 tvg-ID="really.uk" tvg-name="|UK| REALLY SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/really_uktv.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| REALLY SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117750
+#EXTINF:-1 tvg-ID="skyshowcase.uk" tvg-name="|UK| SKY SHOWCASE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-showcase-uk.png" group-title="EU | SKY UK",|UK| SKY SHOWCASE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117306
+#EXTINF:-1 tvg-ID="skyshowcase.uk" tvg-name="|UK| SKY SHOWCASE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-showcase-uk.png" group-title="EU | SKY UK DOC",|UK| SKY SHOWCASE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117481
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="|UK| GOLD FHD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gold_uktv.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| GOLD FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117346
+#EXTINF:-1 tvg-ID="eden.uk" tvg-name="|UK| EDEN SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eden-uk.png" group-title="EU | SKY UK DOC",|UK| EDEN SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117338
+#EXTINF:-1 tvg-ID="eden.uk" tvg-name="|UK| EDEN FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eden-uk.png" group-title="EU | SKY UK DOC",|UK| EDEN FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117301
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="|UK| ALIBI FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alibi_uktv_uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| ALIBI FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117309
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="|UK| ALIBI SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alibi_uktv_uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| ALIBI SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117533
+#EXTINF:-1 tvg-ID="comedycentral.uk" tvg-name="|UK| COMEDY CENTRAL FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| COMEDY CENTRAL FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117334
+#EXTINF:-1 tvg-ID="w.uk" tvg-name="|UK| WATCH FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ww/w_uktv_uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| WATCH FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117418
+#EXTINF:-1 tvg-ID="londonlive.uk" tvg-name="|UK| LONDON LIVE SD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/london_live_uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| LONDON LIVE SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117708
+#EXTINF:-1 tvg-ID="yesterday.uk" tvg-name="|UK| YESTERDAY SD" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yesterday_uktv.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| YESTERDAY SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117825
+#EXTINF:-1 tvg-ID="cbsdrama.uk" tvg-name="|UK| CBS DRAMA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-drama-uk.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| CBS DRAMA
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117593
+#EXTINF:-1 tvg-ID="cartoonito.uk" tvg-name="|UK| CARTOONITO (NOT 24) SD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoonito_us.png" group-title="EU | SKY UK KIDS",|UK| CARTOONITO (NOT 24) SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117590
+#EXTINF:-1 tvg-ID="cartoonnetwork.uk" tvg-name="|UK| CARTOON NETWORK FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="EU | SKY UK KIDS",|UK| CARTOON NETWORK FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117218
+#EXTINF:-1 tvg-ID="cartoonnetwork.uk" tvg-name="|UK| CARTOON NETWORK SD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="EU | SKY UK KIDS",|UK| CARTOON NETWORK SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117591
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="|UK| DISNEY CHANNEL FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_channel_global.png" group-title="EU | SKY UK KIDS",|UK| DISNEY CHANNEL FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117268
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="|UK| DISNEY XD FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png" group-title="EU | SKY UK KIDS",|UK| DISNEY XD FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117333
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="|UK| DISNEY JUNIOR FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="EU | SKY UK KIDS",|UK| DISNEY JUNIOR FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117332
+#EXTINF:-1 tvg-ID="nickjrtoo.uk" tvg-name="|UK| NICK JR TOO" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_too_uk.png" group-title="EU | SKY UK KIDS",|UK| NICK JR TOO
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117730
+#EXTINF:-1 tvg-ID="nicktoons.uk" tvg-name="|UK| NICKTOONS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_toons_us.png" group-title="EU | SKY UK KIDS",|UK| NICKTOONS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117733
+#EXTINF:-1 tvg-ID="pop.uk" tvg-name="|UK| POP SD" tvg-logo="http://tvprestige.eu/uploadlogo/iptvforall/United-Kingdom/pop-in.png" group-title="EU | SKY UK KIDS",|UK| POP SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117739
+#EXTINF:-1 tvg-ID="popmax.uk" tvg-name="|UK| POP MAX SD" tvg-logo="http://tvprestige.eu/uploadlogo/iptvforall/United-Kingdom/pop-max-uk.png" group-title="EU | SKY UK KIDS",|UK| POP MAX SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117740
+#EXTINF:-1 tvg-ID="tinypop.uk" tvg-name="|UK| TINY POP SD" tvg-logo="http://tvprestige.eu/uploadlogo/iptvforall/United-Kingdom/tiny_pop.png" group-title="EU | SKY UK KIDS",|UK| TINY POP SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117807
+#EXTINF:-1 tvg-ID="boomerang.uk" tvg-name="|UK| BOOMERANG FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png" group-title="EU | SKY UK KIDS",|UK| BOOMERANG FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117444
+#EXTINF:-1 tvg-ID="boomerang.uk" tvg-name="|UK| BOOMERANG FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png" group-title="EU | SKY UK KIDS",|UK| BOOMERANG FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117271
+#EXTINF:-1 tvg-ID="babytv.uk" tvg-name="|UK| BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="EU | SKY UK KIDS",|UK| BABY TV HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117543
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="|UK| NICK FHD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_in_hd_plus.png" group-title="EU | SKY UK KIDS",|UK| NICK FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117368
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="|UK| NICK JR FHD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="EU | SKY UK KIDS",|UK| NICK JR FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117267
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="|UK| NICK JR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="EU | SKY UK KIDS",|UK| NICK JR
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117731
+#EXTINF:-1 tvg-ID="fox.uk" tvg-name="|UK| FOX NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png" group-title="EU | SKY UK NEWS",|UK| FOX NEWS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117647
+#EXTINF:-1 tvg-ID="rt.uk" tvg-name="|UK| RT NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt_uk.png" group-title="EU | SKY UK NEWS",|UK| RT NEWS HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117376
+#EXTINF:-1 tvg-ID="rt.uk" tvg-name="|UK| RT AMERICA HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rt_uk.png" group-title="EU | SKY UK NEWS",|UK| RT AMERICA HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117374
+#EXTINF:-1 tvg-ID="aljazeera.uk" tvg-name="|UK| AL JAZEERA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_jazeera_channel_qa.png" group-title="EU | SKY UK NEWS",|UK| AL JAZEERA FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117452
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="|UK| FRANCE 24 ( ENGLISH )" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" group-title="EU | SKY UK NEWS",|UK| FRANCE 24 ( ENGLISH )
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117648
+#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|UK| EURONEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png" group-title="EU | SKY UK NEWS",|UK| EURONEWS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117641
+#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="|UK| CNBC" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc_uk.png" group-title="EU | SKY UK NEWS",|UK| CNBC
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117613
+#EXTINF:-1 tvg-ID="bloombergtv.uk" tvg-name="|UK| BLOOMBERG FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png" group-title="EU | SKY UK NEWS",|UK| BLOOMBERG FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117320
+#EXTINF:-1 tvg-ID="cnn.uk" tvg-name="|UK| CNN FHD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="EU | SKY UK NEWS",|UK| CNN FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117330
+#EXTINF:-1 tvg-ID="bloombergtv.uk" tvg-name="|UK| BLOOMBERG HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png" group-title="EU | SKY UK NEWS",|UK| BLOOMBERG HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117236
+#EXTINF:-1 tvg-ID="aljazeera.uk" tvg-name="|UK| AL JAZEERA HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_jazeera_english.png" group-title="EU | SKY UK NEWS",|UK| AL JAZEERA HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117199
+#EXTINF:-1 tvg-ID="5select.uk" tvg-name="|UK| 5 SELECT SD" tvg-logo="https://www.lyngsat.com/logo/tv/num/5-select-uk.png" group-title="EU | SKY UK",|UK| 5 SELECT SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117521
+#EXTINF:-1 tvg-ID="mtv.uk" tvg-name="|UK| MTV OMG" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.png" group-title="EU | SKY UK",|UK| MTV OMG
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117721
+#EXTINF:-1 tvg-ID="mtvmusic.uk" tvg-name="|UK| MTV MUSIC SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-music-uk-us-uk.png" group-title="EU | SKY UK",|UK| MTV MUSIC SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117720
+#EXTINF:-1 tvg-ID="mtvhits.uk" tvg-name="|UK| MTV HITS HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-hits-us.png" group-title="EU | SKY UK",|UK| MTV HITS HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117719
+#EXTINF:-1 tvg-ID="mtvclassic.uk" tvg-name="|UK| MTV CLASSIC SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-classic-uk-us-uk.png" group-title="EU | SKY UK",|UK| MTV CLASSIC SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117717
+#EXTINF:-1 tvg-ID="" tvg-name="EN | NETFLIX HISTORY" tvg-logo="http://kinglogo.newtvhd.com/logoo/NETFLIX/history.png" group-title="EU | SKY UK CINEMA",EN | NETFLIX HISTORY
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/63473
+#EXTINF:-1 tvg-ID="mtvbase.uk" tvg-name="|UK| MTV 90S" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-base-uk-us-uk.png" group-title="EU | SKY UK",|UK| MTV 90S
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117716
+#EXTINF:-1 tvg-ID="news18india.uk" tvg-name="|UK| INDIA TODAY HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/india_today_in_tv.png" group-title="EU | SKY UK NEWS",|UK| INDIA TODAY HD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117279
+#EXTINF:-1 tvg-ID="dunyanews.uk" tvg-name="|UK| DUNYA NEWS SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya_news_tv_pk.png" group-title="EU | SKY UK NEWS",|UK| DUNYA NEWS SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117631
+#EXTINF:-1 tvg-ID="s4c.uk" tvg-name="|UK| S4C" tvg-logo="http://tvprestige.eu/uploadlogo/iptvforall/United-Kingdom/s4c_uk.png" group-title="EU | SKY UK",|UK| S4C
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117378
+#EXTINF:-1 tvg-ID="geonews.uk" tvg-name="|UK| GEO NEWS INTERNATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_uk.png" group-title="EU | SKY UK NEWS",|UK| GEO NEWS INTERNATIONAL
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117653
+#EXTINF:-1 tvg-ID="news18india.uk" tvg-name="|UK| NEWS 18 INDIA SD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-18-india-in.png" group-title="EU | SKY UK NEWS",|UK| NEWS 18 INDIA SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117729
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOI TV 1" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| LOI TV 1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435590
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOI TV 2" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| LOI TV 2
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435591
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOI TV 3" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| LOI TV 3
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435592
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOI TV 4" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| LOI TV 4
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435593
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOI TV 5" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| LOI TV 5
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435595
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOI TV 6" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| LOI TV 6
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435597
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOI TV 7" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| LOI TV 7
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435599
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOI TV 8" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| LOI TV 8
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435601
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOI TV 9" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| LOI TV 9
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435603
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| GAAGO 1" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| GAAGO 1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435580
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| GAAGO 2" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| GAAGO 2
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435581
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| GAAGO 3" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| GAAGO 3
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435582
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| GAAGO 4" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| GAAGO 4
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435583
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| GAAGO 5" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| GAAGO 5
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435584
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| GAAGO 6" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| GAAGO 6
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435585
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| GAAGO 7" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| GAAGO 7
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435586
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| GAAGO 8" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| GAAGO 8
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435587
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| GAAGO 9" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| GAAGO 9
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435588
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| GAAGO 10" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| GAAGO 10
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435589
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NEW MEDIA FHD" tvg-logo="" group-title="EU | SKY UK NEWS",|UK| NEW MEDIA FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435579
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| ANAND TV" tvg-logo="" group-title="EU | SKY UK NEWS",|UK| ANAND TV
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435578
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| DUNYA NEWS" tvg-logo="" group-title="EU | SKY UK NEWS",|UK| DUNYA NEWS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435577
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| COLORS" tvg-logo="" group-title="EU | SKY UK CINEMA",|UK| COLORS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435576
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| COLORS FHD" tvg-logo="" group-title="EU | SKY UK CINEMA",|UK| COLORS FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435575
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| SKY KIDS NOW FHD" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt392fb66d5d0e73ae/62a096a3c4d59b57e0c22f6f/Kids-App.png?imageManager=true&impolicy=resize&width=392" group-title="EU | SKY UK KIDS",|UK| SKY KIDS NOW FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435574
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| AFROBEATS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj-LCcUpOokxqDYq_VJ_7FTIubsIcBlKfd1Bo0us6Ks-uxa5qEOiZ85VIost0&s" group-title="EU | SKY UK ENTERTAINMENT",|UK| AFROBEATS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435573
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| HALA LONDON FHD" tvg-logo="" group-title="EU | SKY UK",|UK| HALA LONDON FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435572
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| Gusto TV FHD" tvg-logo="" group-title="EU | SKY UK",|UK| Gusto TV FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435571
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| |UK| UTV FHD" tvg-logo="" group-title="EU | SKY UK",|UK| |UK| UTV FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435570
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| SKY MAX SD" tvg-logo="" group-title="EU | SKY UK ENTERTAINMENT",|UK| SKY MAX SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435569
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| SKY MAX FHD" tvg-logo="" group-title="EU | SKY UK ENTERTAINMENT",|UK| SKY MAX FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435568
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| ZEE CINEMA" tvg-logo="" group-title="EU | SKY UK CINEMA",|UK| ZEE CINEMA
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435567
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| ZEE TV SD" tvg-logo="" group-title="EU | SKY UK CINEMA",|UK| ZEE TV SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435566
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| ZEE TV FHD" tvg-logo="" group-title="EU | SKY UK CINEMA",|UK| ZEE TV FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435565
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| Horse & Country TV FHD" tvg-logo="" group-title="EU | SKY UK ENTERTAINMENT",|UK| Horse & Country TV FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435561
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| UTSAV Plus SD" tvg-logo="" group-title="EU | SKY UK ENTERTAINMENT",|UK| UTSAV Plus SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435560
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| UTSAV Gold SD" tvg-logo="" group-title="EU | SKY UK ENTERTAINMENT",|UK| UTSAV Gold SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435559
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| UTSAV Gold FHD" tvg-logo="" group-title="EU | SKY UK ENTERTAINMENT",|UK| UTSAV Gold FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435558
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| Ideal World FHD" tvg-logo="" group-title="EU | SKY UK ENTERTAINMENT",|UK| Ideal World FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435557
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| Create & Craft FHD" tvg-logo="" group-title="EU | SKY UK ENTERTAINMENT",|UK| Create & Craft FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435556
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| CHALLANGE FHD" tvg-logo="" group-title="EU | SKY UK ENTERTAINMENT",|UK| CHALLANGE FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435555
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| Pick SD" tvg-logo="" group-title="EU | SKY UK ENTERTAINMENT",|UK| Pick SD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435554
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| Pick FHD" tvg-logo="" group-title="EU | SKY UK ENTERTAINMENT",|UK| Pick FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435553
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| EDG SPORTS" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| EDG SPORTS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435552
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| PPV: Rocha vs. Young" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| PPV: Rocha vs. Young
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435551
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| UFC" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| UFC
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435550
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| PPV:  Bhatti vs. Narwat " tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| PPV:  Bhatti vs. Narwat 
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435549
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| Utsav Plus FHD" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| Utsav Plus FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435548
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NZ Spark SPORTS EVENT 1" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| NZ Spark SPORTS EVENT 1
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435538
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NZ Spark SPORTS EVENT 2" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| NZ Spark SPORTS EVENT 2
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435539
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NZ Spark SPORTS EVENT 3" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| NZ Spark SPORTS EVENT 3
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435540
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NZ Spark SPORTS EVENT 4" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| NZ Spark SPORTS EVENT 4
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435541
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NZ Spark SPORTS EVENT 5" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| NZ Spark SPORTS EVENT 5
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435542
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NZ Spark SPORTS EVENT 6" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| NZ Spark SPORTS EVENT 6
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435543
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NZ Spark SPORTS EVENT 7" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| NZ Spark SPORTS EVENT 7
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435544
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NZ Spark SPORTS EVENT 8" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| NZ Spark SPORTS EVENT 8
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435545
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NZ Spark SPORTS EVENT 9" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| NZ Spark SPORTS EVENT 9
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435546
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| NZ Spark SPORTS EVENT 10" tvg-logo="" group-title="EU | SKY UK SPORTS",|UK| NZ Spark SPORTS EVENT 10
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/435547
+#EXTINF:-1 tvg-ID="smithsonian.uk" tvg-name="|UK| SMITHSONIAN CHANNEL FHD" tvg-logo="http://tvprestige.eu/uploadlogo/iptvforall/United-Kingdom/smithsonian-channel-us.png" group-title="EU | SKY UK ENTERTAINMENT",|UK| SMITHSONIAN CHANNEL FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/117413
+#EXTINF:-1 tvg-ID="" tvg-name="|US| PLUTO SMITHSONIAN CHANNEL SELECTS" tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="US | USA PLUTO",|US| PLUTO SMITHSONIAN CHANNEL SELECTS
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/122656
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="|USA| SMITHSONIAN WEST FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="US | USA MOVIES",|USA| SMITHSONIAN WEST FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/116908
+#EXTINF:-1 tvg-ID="smithsonianchannel.us" tvg-name="|USA| SMITHSONIAN CHANNEL FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="US | USA MOVIES",|USA| SMITHSONIAN CHANNEL FHD
+http://scorpioniptv.com:2086/thsl6jse01/9ewroduy/116907
